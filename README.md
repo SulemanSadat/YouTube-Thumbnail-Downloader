@@ -37,7 +37,7 @@ Perfect for:
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/youtube-thumbnail-hunter.git
+git clone https://github.com/SulemanSadat/youtube-thumbnail-downloader.git
 cd youtube-thumbnail-hunter
 ````
 
