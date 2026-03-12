@@ -7,7 +7,7 @@ Powered by **Selenium** and **requests**, this script scrolls through the channe
 
 Perfect for:
 - YouTubers 🎥 
-- Designers looking thumbnail inspiration 🎨 
+- Designers looking for inspiration 🎨 
 - Video Editors 🎬
 - Researchers building datasets for AI/ML 🧠 
 
