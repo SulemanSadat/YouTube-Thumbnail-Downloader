@@ -1,4 +1,4 @@
-# 🎬 YouTube Thumbnail Hunter
+# 🎬 Automate Downloading YT Thumbnails
 
 Ever wanted to **grab every thumbnail from a YouTube channel** in **high resolution**, without manually saving each one?  
 Well, this Python script does exactly that. It’s like having a **magic thumbnail scraper** in your pocket! 🪄📸
