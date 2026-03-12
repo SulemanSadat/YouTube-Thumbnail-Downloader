@@ -6,9 +6,12 @@ Well, this Python script does exactly that. It’s like having a **magic thumbna
 Powered by **Selenium** and **requests**, this script scrolls through the channel, collects all video links, and downloads **non-duplicate max-resolution thumbnails** automatically.  
 
 Perfect for:
-- YouTubers who want to archive their content 🎥  
-- Researchers building datasets for AI/ML 🧠  
-- Designers looking for thumbnail inspiration 🎨  
+- YouTubers 🎥 
+- Designers looking thumbnail inspiration 🎨 
+- Video Editors 🎬
+- Researchers building datasets for AI/ML 🧠 
+
+
 
 ---
 
